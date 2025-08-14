@@ -1,6 +1,5 @@
 # Neural Memory
-![Preview](https://github.com/AI-Sheet/EXP-Meural-Memory-AI/Public/blob/main/Photos/Preview.png?raw=true)
-
+![Preview](https://github.com/AI-Sheet/EXP-Meural-Memory-AI/blob/main/Photos/Preview.png?raw=true)
 ## Описание проекта
 Экспериментальная система нейронной памяти с поддержкой Model Context Protocol (MCP). Проект создает интеллектуальную систему хранения и поиска знаний, которая может адаптироваться к потребностям пользователя и обучаться на основе взаимодействий. Система объединяет современные технологии векторного поиска с графовыми структурами данных для создания мощного инструмента управления знаниями.
 
@@ -57,7 +56,7 @@
 - Асинхронная обработка запросов для высокой производительности
 - Автоматическое логирование и мониторинг операций
 - Гибкая система конфигурации через YAML
-![Card](https://github.com/AI-Sheet/EXP-Meural-Memory-AI/Public/blob/main/Photos/Work.png?raw=true)
+![Card](https://github.com/AI-Sheet/EXP-Meural-Memory-AI/blob/main/Photos/Work.png?raw=true)
 
 ### Веб-визуализация
 Интерактивный интерфейс управления:
@@ -66,7 +65,7 @@
 - Добавление новых знаний через веб-форму
 - Статистика системы в реальном времени
 - Экспорт данных в различных форматах
-![Card](https://github.com/AI-Sheet/EXP-Meural-Memory-AI/Public/blob/main/Photos/Only.png?raw=true)
+![Card](https://github.com/AI-Sheet/EXP-Meural-Memory-AI/blob/main/Photos/Only.png?raw=true)
 
 ## Система обучения и адаптации
 Проект использует современные подходы к управлению знаниями:
